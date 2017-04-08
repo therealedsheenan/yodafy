@@ -1,4 +1,4 @@
-# yodafy [![forthebadge](http://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)
+# yodafy  [![forthebadge](http://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)
 
 ![Yodafy](https://cdn.meme.am/instances/500x/76519330/yoda-turn-your-sentences-to-yoda-speak-i-will.jpg)
 
