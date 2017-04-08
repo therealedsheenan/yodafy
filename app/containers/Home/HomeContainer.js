@@ -39,7 +39,7 @@ export default class HomeContainer extends Component {
   }
   render() {
     return (
-      <Container>
+      <Container style={styles.container}>
         <Content>
           <Form>
             <Item>
@@ -47,7 +47,7 @@ export default class HomeContainer extends Component {
                      value={this.state.text} placeholder="Enter message" />
             </Item>
             <Button success onPress={this.onSubmit}>
-              <Text> Success </Text>
+              <Text>Yodafy</Text>
             </Button>
             <Text>{this.state.yodaMessage}</Text>
           </Form>
@@ -56,3 +56,9 @@ export default class HomeContainer extends Component {
     );
   }
 }
+
+const styles = {
+  container: {
+    backgroundColor: 'green',
+  }
+};

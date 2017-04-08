@@ -17,7 +17,7 @@ import HomeContainer from './app/containers/Home/HomeContainer'
 export default class yodafy extends Component {
   render() {
     return (
-        <HomeContainer />
+      <HomeContainer />
     );
   }
 }
